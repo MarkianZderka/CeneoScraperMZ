@@ -4,7 +4,7 @@
         "author": "KamilZ1",
         "authors_recommendation": true,
         "score": 1.0,
-        "content": "The casing resembling a small printer houses a multifunction device with printing, scanning and copying functions. And its small size and compactness are the biggest advantages of the HP DeskJet 3762. The device does not take up much space and is therefore ideal for a home where we do not have a separate office room, but only a work corner. Another advantage is certainly the price. In this price range, it is difficult to find a device with such parameters and such efficiency. The quality of prints is also positively surprising, although it must be honestly admitted that it is not a speed demon. Another advantage is wireless printing, which is a very practical solution in itself, and works flawlessly in the HP DeskJet 3762. The quality of workmanship is okay, the design is a matter of taste, but it would be nice if there was a choice of colors - turquoise will not appeal to everyone. To sum up, I recommend the device to everyone for home use.",
+        "content": "The casing resembling a small printer houses a multifunction device with printing, scanning and copying functions. And its small size and compactness are the biggest advantages of the HP DeskJet 3762. The device does not take up much space and is therefore ideal for a home where we do not have a separate office room, but only a work corner. Another advantage is certainly the price. In this price range, it is difficult to find a device with such parameters and such efficiency. The quality of prints is also positively surprising, although it must be honestly admitted that it is not a speed demon. Another advantage is wireless printing, which is a very practical solution in itself, and works flawlessly in the HP DeskJet 3762. The quality of workmanship is okay, the design is a matter of taste, but it would be nice if there was an option to choose colors - turquoise will not appeal to everyone. To sum up, I recommend the device to everyone for home use.",
         "pros": [
             "compact",
             "relatively cheap",
@@ -344,6 +344,37 @@
         "purchase_date": "2022-01-29 14:01:35"
     },
     {
+        "opinion_id": "18628667",
+        "author": "d...n",
+        "authors_recommendation": true,
+        "score": 1.0,
+        "content": "Super small, portable and quiet",
+        "pros": [
+            "quality of prints",
+            "relatively cheap",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-07 09:43:46",
+        "purchase_date": "2024-04-29 12:20:29"
+    },
+    {
+        "opinion_id": "16448664",
+        "author": "m...k",
+        "authors_recommendation": false,
+        "score": 0.1,
+        "content": "The printer I wanted to buy. But it's disabled. Once the toners are inserted, it cannot be returned. I have to take it in for repairs. Shame on Media Mart!!!",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-08-23 22:33:38",
+        "purchase_date": "2022-08-05 12:30:51"
+    },
+    {
         "opinion_id": "17202270",
         "author": "j...i",
         "authors_recommendation": null,
@@ -360,19 +391,6 @@
         "unhelpful": 0,
         "publish_date": "2023-02-28 11:37:03",
         "purchase_date": "2022-04-03 18:48:52"
-    },
-    {
-        "opinion_id": "16448664",
-        "author": "m...k",
-        "authors_recommendation": false,
-        "score": 0.1,
-        "content": "The printer I wanted to buy. But it's not working. Once the toners are inserted, it cannot be returned. I have to take it in for repairs. Shame on Media Mart!!!",
-        "pros": [],
-        "cons": [],
-        "helpful": 0,
-        "unhelpful": 0,
-        "publish_date": "2022-08-23 22:33:38",
-        "purchase_date": "2022-08-05 12:30:51"
     },
     {
         "opinion_id": "16664177",
@@ -397,7 +415,7 @@
         "author": "g...1",
         "authors_recommendation": true,
         "score": 1.0,
-        "content": "It's ok for this money.",
+        "content": "It's ok for this kind of money.",
         "pros": [],
         "cons": [],
         "helpful": 0,
@@ -634,24 +652,6 @@
         "purchase_date": "2022-03-12 16:34:40"
     },
     {
-        "opinion_id": "15153414",
-        "author": "w...8",
-        "authors_recommendation": true,
-        "score": 1.0,
-        "content": "Git",
-        "pros": [],
-        "cons": [
-            "quality of prints",
-            "relatively cheap",
-            "print speed",
-            "efficiency"
-        ],
-        "helpful": 0,
-        "unhelpful": 5,
-        "publish_date": "2021-11-02 11:30:28",
-        "purchase_date": "2021-10-27 17:16:31"
-    },
-    {
         "opinion_id": "15128430",
         "author": "1ewka1212",
         "authors_recommendation": false,
@@ -671,11 +671,29 @@
         "purchase_date": null
     },
     {
+        "opinion_id": "15153414",
+        "author": "w...8",
+        "authors_recommendation": true,
+        "score": 1.0,
+        "content": "Git",
+        "pros": [],
+        "cons": [
+            "quality of prints",
+            "relatively cheap",
+            "print speed",
+            "efficiency"
+        ],
+        "helpful": 0,
+        "unhelpful": 5,
+        "publish_date": "2021-11-02 11:30:28",
+        "purchase_date": "2021-10-27 17:16:31"
+    },
+    {
         "opinion_id": "14878601",
         "author": "Użytkownik Ceneo",
         "authors_recommendation": null,
         "score": 0.6,
-        "content": "If you care about printing speed because you print several or a dozen sheets at once, I do not recommend it. In addition, the printer is very noisy when feeding a sheet of paper and when returning a printed sheet.",
+        "content": "If you care about printing speed because you print several or a dozen sheets of paper at once, I do not recommend it. In addition, the printer is very noisy when feeding a sheet of paper and when returning a printed sheet.",
         "pros": [
             "print quality"
         ],
